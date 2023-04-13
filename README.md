@@ -1,4 +1,4 @@
-***ll Over Internet Explorer***
+***Shell Over Internet Explorer***
 **Introduction**
 
 This script was developed for a CTF challenge and provides a backdoor to control a victim's Internet Explorer through a remote shell. This can be used for educational or informational purposes, but use it at your own risk. The author and contributors are not responsible for any damages or consequences arising from the use of this software.
